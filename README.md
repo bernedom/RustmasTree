@@ -1,6 +1,14 @@
 # RustmasTree
 
-Build a rusty christmas tree in ASCII and some unicode. 
+Build a rusty Christmas tree in ASCII and some Unicode. Works best on a Unicode terminal with a dark background. 
+
+
+<details>
+<summary>click here to see sample output (Spoiler alert)!</summary>
+
+![The generated tree](output.png)
+
+</details>
 
 ## Build and run
 
@@ -8,10 +16,3 @@ Build a rusty christmas tree in ASCII and some unicode.
 cargo build
 cargo run
 ```
-
-<details>
-<summary>click here to see the output (Spoiler alert)!</summary>
-
-![The generated tree](output.png)
-
-</details>
